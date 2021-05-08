@@ -8,7 +8,7 @@ Just download the two file and keep them in the same folder
 
 Open the Cowin-Availability-Run file.
 
-Set the search parameters - 
+Set the search parameters and Run All -  
 
 1. Age Limit (values should be 18 or 45)
 2. Minimum availability (value should be 1 or more)
@@ -16,3 +16,6 @@ Set the search parameters -
 I have also given small fuction to search for the district ids as they are inital keys for the Cowin.
 
 Hope you get the best slot soon and be safe !!!
+
+
+P.S. For any errors or issues in running, please notify me.
